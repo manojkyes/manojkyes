@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @manojkyes
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+manojkyes/manojkyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+https://www.linkedin.com/in/athul-p-saji/
+https://www.linkedin.com/in/preethi-s-temkar/
+https://www.linkedin.com/in/deepthy-siby-3a70b91b9/ Data Engineer - 3 yrs, IBS
+https://www.linkedin.com/in/joshwinlal98/ Data Engineer - 5 rs, IBS
+https://www.linkedin.com/in/swmohanty/  Data Engineer BLR - Serving notice period.
+https://www.linkedin.com/in/roopa-antony/ Data Engineer Kochi 3 year Serving notice period
+https://www.linkedin.com/in/amritha-v-570a9949/ Sr. Data Engineer - Kochi AirIndia 9 years
+--->
